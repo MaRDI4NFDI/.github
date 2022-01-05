@@ -22,3 +22,10 @@
 **Checklist for this PR**: 
 - [ ] At least one reviewer has been assigned. 
 - [ ] All related issues with further descriptions are linked.
+
+
+**Note for linking-issue across repositories**:
+If the issue is not in the same Repository as the PR. The issue can be referenced with by 
+typing the following here in this markdown: 
+user/repository#number
+i.e: MARDI4NFDI/example_repo#1
