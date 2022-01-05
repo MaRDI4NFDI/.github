@@ -2,7 +2,7 @@
 name: MaRDI standard issue
 about: A standard issue within the MaRDI project. This is usally used for new features or imrpovements. For bugfixes there is another template, called 'MaRDI bugfix issue' 
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
