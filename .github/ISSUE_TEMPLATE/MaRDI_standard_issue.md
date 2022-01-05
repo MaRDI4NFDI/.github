@@ -30,3 +30,4 @@ Example: "On the website, our Button for accessing the 'about' page is not visib
 - [ ] Assignee has been set for this issue 
 - [ ] All fields of the issue have been filled 
 - [ ] Example fields have been removed
+- [ ] MaRDI_Project has been assigned as project
