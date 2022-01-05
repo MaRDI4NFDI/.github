@@ -31,3 +31,5 @@ Example: "On the website, our Button for accessing the 'about' page is not visib
 - [ ] All fields of the issue have been filled 
 - [ ] Example fields have been removed
 - [ ] MaRDI_Project has been assigned as project
+- [ ] code was merged to main/dev
+- [ ] feature branch has been deleted after merge to main/dev
