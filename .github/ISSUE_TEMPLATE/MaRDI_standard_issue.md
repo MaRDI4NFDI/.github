@@ -27,6 +27,6 @@ Example: "On the website, our Button for accessing the 'about' page is not visib
 
 **Checklist for this issue**: 
 (Some checks for making sure this issue is completely formulated)
-- [] Assignee has been set for this issue 
-- [] All fields of the issue have been filled 
-- [] Example fields have been removed
+- [ ] Assignee has been set for this issue 
+- [ ] All fields of the issue have been filled 
+- [ ] Example fields have been removed
