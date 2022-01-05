@@ -4,7 +4,6 @@ about: A standard issue within the MaRDI project. This is usally used for new fe
 title: ''
 labels: 'enhancement'
 assignees: ''
-projects: 'MaRDI_Project'
 
 ---
 
