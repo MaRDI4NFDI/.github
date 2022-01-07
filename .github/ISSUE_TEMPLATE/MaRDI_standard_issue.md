@@ -1,6 +1,6 @@
 ---
 name: MaRDI standard issue
-about: A standard issue within the MaRDI project. This is usally used for new features or imrpovements. For bugfixes there is another template, called 'MaRDI bugfix issue' 
+about: A standard issue within the MaRDI project. This is usually used for new features or improvements. For bugfixes there is another template, called 'MaRDI bugfix issue' 
 title: ''
 labels: 'enhancement'
 assignees: ''
