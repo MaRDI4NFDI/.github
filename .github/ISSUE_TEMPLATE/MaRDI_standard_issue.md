@@ -9,19 +9,19 @@ assignees: ''
 
 **Issue description in words**:
 (What is the reason for creating the issue and what is it about)  
-Example: "On the website, our Button for accessing the 'about' page is not visible. we want our program to make the page accessible with a button to ensure the 'About'-page can be visited." 
+Example: "On the website, our Button for accessing the 'about' page is not visible. We want our program to make the page accessible with a button to ensure the 'About'-page can be visited." 
  
  
 **TODOS**: 
-(In technical terms suggestions what has to be done to fix the issue.) 
-- Example: Modify opacity for the button-class in css files. 
+(In technical terms, suggestions of what has to be done to fix the issue.) 
+- Example: Modify opacity for the button-class in CSS files. 
 -  
 -  
 - 
 
 **Acceptance-Criteria** 
 (what shall be reached with this issue, these criteria are mandatory for closing the issue) 
-- Example: The About-button is visible when accesing home.html in Google Chrome and Firefox  
+- Example: The About-button is visible when accessing home.html in Google Chrome and Firefox  
 - Example: Clicking the button forwards to the 'about'-page
 -
 
