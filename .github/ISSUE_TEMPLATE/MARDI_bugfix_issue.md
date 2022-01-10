@@ -1,6 +1,6 @@
 ---
 name: MaRDI bugfix issue
-about: A bugfix issue within the MaRDI project. This used for reporting bugs. For new features and enhanchements there is another template, called 'MaRDI standard issue' 
+about: A bugfix issue within the MaRDI project. This used for reporting bugs. For new features and enhancements, there is another template, called 'MaRDI standard issue' 
 title: ''
 labels: 'bug'
 assignees: ''
@@ -29,7 +29,7 @@ Steps to reproduce the behavior:
 
 **Additional context**
 Add any other context about the problem here.
-- In example information about the device used for producing the bug
+- In example, information about the device used for producing the bug
 
 
 **Checklist for this issue**: 
