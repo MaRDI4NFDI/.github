@@ -15,16 +15,16 @@ Example: "On the website, our Button for accessing the 'about' page is not visib
  
  
 **TODOS**: 
-(In technical terms suggestions what has to be done to fix the issue.)
+
 <!--
- 
+ (In technical terms, suggestions of what has to be done to resolve the issue.)
 - Example: Modify opacity for the button-class in css files. 
 -->
 
 
 **Acceptance-Criteria** 
-(List of criteria to be fullfilled for closing the issue)
 <!--
+(Liste der zu erfüllenden Kriterien zur Lösung des Problems)
 What shall be reached with this issue?
 List criteria mandatory for closing the issue:
 
