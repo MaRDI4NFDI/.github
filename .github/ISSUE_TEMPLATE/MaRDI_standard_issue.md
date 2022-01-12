@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
+
 **Issue description**:
 <!--
 What is the reason for creating the issue and what is it about? 
@@ -24,12 +25,11 @@ Example: "On the website, our Button for accessing the 'about' page is not visib
 
 **Acceptance-Criteria** 
 <!--
-(Liste der zu erfüllenden Kriterien zur Lösung des Problems)
+(List of criteria to be fulfilled for resolving the issue)
 What shall be reached with this issue?
 List criteria mandatory for closing the issue:
 
 - Example: The About-button is visible when accesing home.html in Google Chrome and Firefox  
-- Example: Clicking the button forwards to the 'about'-page
 -->
 
 **Checklist for this issue**: 
