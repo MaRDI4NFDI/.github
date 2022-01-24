@@ -21,7 +21,7 @@ Example: "On the website, our Button for accessing the 'about' page is not visib
  (In technical terms, suggestions of what has to be done to resolve the issue.)
 - Example: Modify opacity for the button-class in css files. 
 -->
-
+- [ ] example issue to copy 
 
 **Acceptance-Criteria** 
 <!--
