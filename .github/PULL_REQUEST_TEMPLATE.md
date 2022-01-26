@@ -1,5 +1,4 @@
 # MaRDI Pull Request
-(this template is to be filled out by the person who is creating the pull-request)
 
 **Goal**: 
 (bigger goal you want to achieve with this PR)
@@ -20,12 +19,5 @@
 - [ ] Checkout (Test changes locally) 
 
 **Checklist for this PR**: 
-- [ ] At least one reviewer has been assigned. 
-- [ ] All related issues with further descriptions are linked.
-
-
-**Note for linking-issue across repositories**:
-If the issue is not in the same Repository as the PR. The issue can be referenced with by 
-typing the following here in this markdown: 
-user/repository#number
-i.e: MARDI4NFDI/example_repo#1
+- [ ] (Reviewers and Assignee specified.)[https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users]
+- [ ] (All related issues are linked.)[https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue]
