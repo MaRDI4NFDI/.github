@@ -39,3 +39,4 @@ List criteria mandatory for closing the issue:
 - [ ] Issue has been assigned to the main project
 - [ ] Code was merged
 - [ ] Feature branch has been deleted and issues were updated / closed
+- [ ] Issue has been estimated
