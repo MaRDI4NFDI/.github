@@ -17,13 +17,12 @@ assignees: ''
  
 **Corresponding Milestones**: 
 (Portal-Milestones which are covered by this epic, i.e: "M-TA5-A3 API Access possible")
- - 
+ - corresponding milestone one 
  
 **Epic issues**: 
 (The issues related to the epic are listed here.) 
--  
--  
-- 
+- [ ] issue one github-link  
+- [ ] ...
 
 
 
@@ -36,10 +35,7 @@ assignees: ''
 
 **Epic acceptance criteria**: 
 (The criteria which are necessary to resolve this epic) 
-
-
-
-
+- [ ] first criterion 
 
 
 **Checklist for this issue**: 
