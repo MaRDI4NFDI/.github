@@ -50,5 +50,5 @@ The criteria which are necessary to resolve this epic
 - [ ] first criterion 
 
 
-**Checklist for this issue**: 
-- [ ] MaRDI_Project has been assigned as project
+**Checklist for this epic**: 
+- [ ] the main MaRDI project has been assigned as project
