@@ -8,19 +8,27 @@ assignees: ''
 ---
 
 **Epic description in words**:
-(What is the epic about)  
+<!--
+What is the epic about
+-->  
 
 
 **Additional Info**:
-(Additional information collection)   
+<!--
+Additional information collection   
+--> 
 - 
  
 **Corresponding Milestones**: 
-(Portal-Milestones which are covered by this epic, i.e: "M-TA5-A3 API Access possible")
+<!--
+Portal-Milestones which are covered by this epic, i.e: "M-TA5-A3 API Access possible"
+-->  
  - corresponding milestone one 
  
 **Epic issues**: 
-(The issues related to the epic are listed here.) 
+<!--
+The issues related to the epic are listed here.
+-->  
 - [ ] issue one github-link  
 - [ ] ...
 
@@ -28,13 +36,17 @@ assignees: ''
 
 
 **Related bugs**: 
-(The issues related to the epic are listed here. ) 
+<!--
+The issues related to the epic are listed here. 
+-->  
 - 
 
 
 
 **Epic acceptance criteria**: 
-(The criteria which are necessary to resolve this epic) 
+<!--
+The criteria which are necessary to resolve this epic
+-->  
 - [ ] first criterion 
 
 
