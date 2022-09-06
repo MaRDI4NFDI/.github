@@ -8,12 +8,12 @@ assignees: ''
 ---
 
 **New feature description in words**:
-(What is the new feature about and why is it benefitial to the users)  
+(What is the new feature about and why is it beneficial to the users)  
   
  
  
 **TODOS**: 
-(In technical terms suggestions what has to be done to implement the feature.) 
+(In technical terms, suggestions what has to be done to implement the feature.) 
 -  
 -  
 - 
@@ -25,7 +25,7 @@ assignees: ''
 
 
 **Checklist for this issue**: 
-(Some checks for making sure this feature-request is completely formulated)
+(Some checks for making sure this feature request is completely formulated)
 - [ ] Participants in discussion have been invited as assignees 
 - [ ] All fields of the issue have been filled 
 - [ ] Example fields have been removed
