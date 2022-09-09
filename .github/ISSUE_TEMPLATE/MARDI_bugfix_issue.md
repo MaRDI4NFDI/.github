@@ -36,4 +36,4 @@ Add any other context about the problem here.
 (Some checks for making sure this issue is completely formulated)
 - [ ] Assignee has been set for this issue 
 - [ ] All fields of the issue have been filled 
-- [ ] main MaRDI project has been assigned as project
+- [ ] the main MaRDI project has been assigned as project
