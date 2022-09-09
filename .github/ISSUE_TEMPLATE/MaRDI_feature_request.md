@@ -29,4 +29,4 @@ assignees: ''
 - [ ] Participants in discussion have been invited as assignees 
 - [ ] All fields of the issue have been filled 
 - [ ] Example fields have been removed
-- [ ] T5_Overview has been assigned as project
+- [ ] main MaRDI project has been assigned as project
